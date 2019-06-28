@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65550620-31ea-4c0a-a61f-e693f24b6310" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../04-Pandas/Homework/PyCitySchools/PyCitySchools_starter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../04-Pandas/Homework/PyCitySchools/PyCitySchools_starter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../10-Advanced-Data-Storage-and-Retrieval/1/Activities/02-Stu_IceCreamStore/Solved/IceCreamConnector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10-Advanced-Data-Storage-and-Retrieval/1/Activities/02-Stu_IceCreamStore/Solved/IceCreamConnector.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../10-Advanced-Data-Storage-and-Retrieval/3/Activities/11-Stu_Chinook/Solved/Stu_Chinook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../10-Advanced-Data-Storage-and-Retrieval/3/Activities/11-Stu_Chinook/Solved/Stu_Chinook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/2/Activities/04-Stu_Word_Counter/Unsolved/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/2/Activities/04-Stu_Word_Counter/Unsolved/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/2/Activities/04-Stu_Word_Counter/Unsolved/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/2/Activities/04-Stu_Word_Counter/Unsolved/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/3/Activities/06-Stu_Button_Click/Unsolved/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/3/Activities/06-Stu_Button_Click/Unsolved/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/Homework/StarterCode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/Homework/StarterCode/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/Homework/StarterCode/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../14-Intro-To-JavaScript/Homework/StarterCode/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/1/Activities/03-Stu_First_Chart/Unsolved/plots.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/1/Activities/03-Stu_First_Chart/Unsolved/plots.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/1/Activities/05-Stu_Multi_Trace/Unsolved/plots.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/1/Activities/05-Stu_Multi_Trace/Unsolved/plots.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/1/Activities/08-Stu_Scatter/Unsolved/plots.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/1/Activities/08-Stu_Scatter/Unsolved/plots.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/2/Activities/01-Ins_Dropdown_Events/Solved/plots.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/2/Activities/01-Ins_Dropdown_Events/Solved/plots.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/3/Activities/02-Stu_Song_Lyrics/Unsolved/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/3/Activities/02-Stu_Song_Lyrics/Unsolved/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/Homework/StarterCode/Belly_Button_Biodiversity/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/Homework/StarterCode/Belly_Button_Biodiversity/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/Homework/StarterCode/Belly_Button_Biodiversity/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/Homework/StarterCode/Belly_Button_Biodiversity/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/Homework/StarterCode/Belly_Button_Biodiversity/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../15-Interactive-Visualizations-and-Dashboards/Homework/StarterCode/Belly_Button_Biodiversity/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16-D3/1/Activities/05-Ins_SVG/Unsolved/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16-D3/1/Activities/05-Ins_SVG/Unsolved/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16-D3/1/Activities/08-Stu_Data_Rectangles/Unsolved/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16-D3/1/Activities/08-Stu_Data_Rectangles/Unsolved/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16-D3/2/Activities/03-Par_BarChart_From_CSV/Unsolved/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16-D3/2/Activities/03-Par_BarChart_From_CSV/Unsolved/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16-D3/2/Activities/04-Evr_Scales/Solved/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16-D3/2/Activities/04-Evr_Scales/Solved/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16-D3/2/Activities/06-Stu_Complete_Bar_Chart/Unsolved/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16-D3/2/Activities/06-Stu_Complete_Bar_Chart/Unsolved/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16-D3/2/Activities/07-Ins_Line_Generators_Intro/Solved/path.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../16-D3/2/Activities/07-Ins_Line_Generators_Intro/Solved/path.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/01-Evr_BasicNYCBoroughs/Solved/static/js/logic3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/01-Evr_BasicNYCBoroughs/Solved/static/js/logic3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/02-Evr_CrimeHeatmap/Solved/static/js/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/02-Evr_CrimeHeatmap/Solved/static/js/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/02-Evr_CrimeHeatmap/Solved/static/js/heatmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/02-Evr_CrimeHeatmap/Solved/static/js/heatmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/03-Stu_MarkerClusters/Unsolved/static/js/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/03-Stu_MarkerClusters/Unsolved/static/js/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/03-Stu_MarkerClusters/Unsolved/static/js/logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../17-Mapping-Web/2/Activities/03-Stu_MarkerClusters/Unsolved/static/js/logic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/01-Ins_Univariate_Linear_Regression_Sklearn/Solved/Ins_Univariate_Linear_Regression_Sklearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/01-Ins_Univariate_Linear_Regression_Sklearn/Solved/Ins_Univariate_Linear_Regression_Sklearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/01-Ins_Univariate_Linear_Regression_Sklearn/Unsolved/Ins_Univariate_Linear_Regression_Sklearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/01-Ins_Univariate_Linear_Regression_Sklearn/Unsolved/Ins_Univariate_Linear_Regression_Sklearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/03-Ins_Quantifying_Regression/Solved/Ins_Quantifying_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/03-Ins_Quantifying_Regression/Solved/Ins_Quantifying_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/03-Ins_Quantifying_Regression/Unsolved/Ins_Quantifying_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/03-Ins_Quantifying_Regression/Unsolved/Ins_Quantifying_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/04-Stu_Brains/Unsolved/Stu_Brains.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/04-Stu_Brains/Unsolved/Stu_Brains.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/06-Stu_Beer_Foam/Unsolved/Stu_Beer_Foam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/06-Stu_Beer_Foam/Unsolved/Stu_Beer_Foam.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/07-Ins_Data_Preprocessing/Solved/supplemental/MinMax_Scaler.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/07-Ins_Data_Preprocessing/Solved/supplemental/MinMax_Scaler.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/08-Stu_Respiratory_Disease/Unsolved/Stu_Respiratory_Disease.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/1/Activities/08-Stu_Respiratory_Disease/Unsolved/Stu_Respiratory_Disease.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/01-Ins_Logistic_Regression/Solved/Ins_Logistic_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/01-Ins_Logistic_Regression/Solved/Ins_Logistic_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/01-Ins_Logistic_Regression/Unsolved/Ins_Logistic_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/01-Ins_Logistic_Regression/Unsolved/Ins_Logistic_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/02-Stu_Voice_Recognition/Unsolved/Stu_Voice_Recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/02-Stu_Voice_Recognition/Unsolved/Stu_Voice_Recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/03-Ins_Trees/Solved/Ins_Random_Forests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/03-Ins_Trees/Solved/Ins_Random_Forests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/06-Stu_KNN/Unsolved/Stu_KNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/2/Activities/06-Stu_KNN/Unsolved/Stu_KNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/01-Ins_One_Hot_Encoding/Solved/One_Hot_Encoding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/01-Ins_One_Hot_Encoding/Solved/One_Hot_Encoding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/02-Evr_First_Neural_Network/Solved/First_Neural_Network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/02-Evr_First_Neural_Network/Solved/First_Neural_Network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/02-Evr_First_Neural_Network/Unsolved/First_Neural_Network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/02-Evr_First_Neural_Network/Unsolved/First_Neural_Network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/03-Evr_Deep_Learning/Solved/Deep_Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/03-Evr_Deep_Learning/Solved/Deep_Learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/03-Evr_Deep_Learning/Unsolved/Deep_Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/03-Evr_Deep_Learning/Unsolved/Deep_Learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/04-Stu_Moons/Unsolved/Moons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/04-Stu_Moons/Unsolved/Moons.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/05-Stu_Deep_Voice/Unsolved/Voice_Recognition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/05-Stu_Deep_Voice/Unsolved/Voice_Recognition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/06-Ins_Saving_Models/Solved/Saving_Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/06-Ins_Saving_Models/Solved/Saving_Models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/07-Stu_Smartphone/Unsolved/Smartphone_Activity_Detector.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../20-Machine Learning/3/Activities/07-Stu_Smartphone/Unsolved/Smartphone_Activity_Detector.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/02-Evr_Word_Count/Solved/bacon_counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/02-Evr_Word_Count/Solved/bacon_counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/03-Evr_MrJob_CSV/Solved/hot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/03-Evr_MrJob_CSV/Solved/hot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/05-Ins_Pyspark_Dataframes_Basics/Solved/spark_dataframe_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/05-Ins_Pyspark_Dataframes_Basics/Solved/spark_dataframe_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/05-Ins_Pyspark_Dataframes_Basics/Unsolved/spark_dataframe_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/05-Ins_Pyspark_Dataframes_Basics/Unsolved/spark_dataframe_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/06-Stu_Pyspark_Dataframes_Basics/Unsolved/demographics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../21-Big Data/1/Activities/06-Stu_Pyspark_Dataframes_Basics/Unsolved/demographics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python_review/dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python_review/get_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python_review/list_arr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python_review/nested.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../python_review/times_two_function.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Resources" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65550620-31ea-4c0a-a61f-e693f24b6310" name="Default Changelist" comment="" />
+      <created>1561745147042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561745147042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="791" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
